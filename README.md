@@ -1,1 +1,1 @@
-# Wine_quality_app
+# wine_quality_app
